@@ -1,7 +1,9 @@
-# Environment Variables Used in ML-Practical
+# Environment Variables Report
+Scanned Branch: **main**
 
-Scanned branch: `main`
-
-## Variables Found
-- `2`
-- `X`
+## /home/runner/work/markdown-automation/markdown-automation/scripts/scan_envs.py
+- `TARGET_BRANCH`
+- `encoding`
+- `errors`
+- `format`
+- `main`
